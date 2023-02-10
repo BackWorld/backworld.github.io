@@ -21,7 +21,7 @@ timezone: asia/Chongqing
 
 title: 清客                          # the main title
 
-tagline: 书山有路勤为径   # it will display as the sub-title
+tagline: 且活着，每一天   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -118,6 +118,8 @@ pwa:
   enabled: true   # the option for PWA feature
 
 paginate: 20
+
+mermaid: true
 
 # ------------ The following options are not recommended to be modified ------------------
 

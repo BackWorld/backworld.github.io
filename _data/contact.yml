@@ -4,16 +4,15 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
--
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+  icon: 'fa-solid fa-j'
+  url: https://www.jianshu.com/u/484e1c9f1ae9
+-
+  icon: 'fa-solid fa-fire'
+  url: https://flytoo.zcool.com.cn
 
 # Uncomment and complete the url below to enable more contact options
 # -
