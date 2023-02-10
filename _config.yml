@@ -19,9 +19,9 @@ timezone: asia/Chongqing
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 清客                          # the main title
+title: 清耘                          # the main title
 
-tagline: 且活着，每一天   # it will display as the sub-title
+tagline: 书山有路，学海无涯   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   一枚混迹于各大外包公司的 iOS 开发程序猿.
