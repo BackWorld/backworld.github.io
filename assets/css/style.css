@@ -2806,7 +2806,7 @@ footer div.d-felx {
     padding-right:0
 }
 }#related-posts .card h3,h1+.post-meta em a,h1+.post-meta em,footer a {
-    color:var(--text-color)
+    color:var(--link-color)
 }
 .preview-img img,.preview-img {
     margin:0
@@ -2938,7 +2938,7 @@ h1+.post-meta span+span::before {
     font-size:1.1rem;
     line-height:1.5rem;
     margin-top:.3rem;
-    white-space:normal
+    white-space:normal;
 }
 @-webkit-keyframes fade-up {
     from {
